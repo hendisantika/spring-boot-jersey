@@ -16,7 +16,7 @@ public class PersonService {
 		personList.add(new Person(1, "Uzumaki Naruto", "uzumaki_naruto@konohagakure.com"));
 		personList.add(new Person(2, "Uchiha Sasuke", "uchiha_sasuke@konohagakure.com"));
 		personList.add(new Person(3, "Sakura Haruno", "sakura_haruno@konohagakure.com"));
-		personList.add(new Person(1, "Hatake Kakashi", "hatake_kakashi@konohagakure.com"));
+		personList.add(new Person(4, "Hatake Kakashi", "hatake_kakashi@konohagakure.com"));
 	}
 
 	public Person getById(int personId) {
