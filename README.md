@@ -38,3 +38,14 @@ Here are the results :
   }
 ]
 ```
+
+
+`http://localhost:8080/personrepo/search/1`
+
+```
+{
+    "personId": 1,
+    "name": "Uzumaki Naruto",
+    "email": "uzumaki_naruto@konohagakure.com"
+  }
+```
