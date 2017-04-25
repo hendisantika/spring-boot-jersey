@@ -1,0 +1,6 @@
+spring/boot/jersey/sample/rest/PersonSearchEndPoint.class
+spring/boot/jersey/sample/JerseyConfig$ObjectMapperContextResolver.class
+spring/boot/jersey/sample/SpringBootJerseyApplication.class
+spring/boot/jersey/sample/data/Person.class
+spring/boot/jersey/sample/data/PersonService.class
+spring/boot/jersey/sample/JerseyConfig.class
